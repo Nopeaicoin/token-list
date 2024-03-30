@@ -1,4 +1,4 @@
-# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/MINT_ADDRES_HERE)
+# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/GMCWpuY3EGfscU92R9VTBM5WpWf33FtEfVnw1bifdYRN)
 
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/NopeAiCoin/status/1773923032634958209?s=20
